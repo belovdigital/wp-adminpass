@@ -1,6 +1,6 @@
 # WP AdminPass: Password Bypass & Display for WordPress
 
-Introducing WP AdminPass, a powerful and user-friendly plugin designed to streamline the WordPress experience for administrators and editors. Developed by the expert team at Belov Digital Agency, this plugin simplifies password management for pages, posts, and custom post types, granting you access to key features:
+Introducing WP AdminPass, a powerful and user-friendly plugin designed to streamline the WordPress experience for administrators and editors. Developed by the expert team at [Belov Digital Agency](https://belovdigital.agency/), this plugin simplifies password management for pages, posts, and custom post types, granting you access to key features:
 
   #1. Bypass password protection: Admins can easily access password-protected content without entering a password, ensuring seamless content management.
 
