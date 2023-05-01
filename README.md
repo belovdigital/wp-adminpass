@@ -8,4 +8,4 @@ Introducing WP AdminPass, a powerful and user-friendly plugin designed to stream
   
 WP AdminPass is the ultimate solution for WordPress professionals looking to enhance their website management capabilities. Trust Belov Digital Agency to deliver innovative tools that boost productivity and streamline workflows.
 
-Read more on pur [Plugins website](https://plugins.belov.digital/).
+Read more on our [Plugins website](https://plugins.belov.digital/).
