@@ -7,3 +7,5 @@ Introducing WP AdminPass, a powerful and user-friendly plugin designed to stream
   #2. Display password: Admins and editors can view the password for protected pages, posts, and custom post types directly in the editor, saving valuable time.
   
 WP AdminPass is the ultimate solution for WordPress professionals looking to enhance their website management capabilities. Trust Belov Digital Agency to deliver innovative tools that boost productivity and streamline workflows.
+
+Read more on pur [Plugins website](https://plugins.belov.digital/).
